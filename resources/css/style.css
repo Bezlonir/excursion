@@ -5,6 +5,7 @@
   text-align:center;
   display:block;
   margin: auto;
+  margin-top: 20px;
 }
 
 h2 {
@@ -24,8 +25,16 @@ h6 {
   text-decoration:underline;
 }
 
+.landscape-image {
+
+}
+
 .cellphone-icon {
-  margin: auto 20px;
+
+}
+
+.video {
+
 }
 
 #banner {
